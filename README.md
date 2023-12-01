@@ -1,4 +1,4 @@
-### Olá, sou Weydson Fernandes!
+### Olá, sou **LinkedIn:** [Weydson Fernandes](https://www.linkedin.com/in/weydson-fernandes/)!
 
 # 🚀 Desenvolvedor Backend em Crescimento 🚀
 
