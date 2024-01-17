@@ -1,6 +1,6 @@
 ### Olá, sou [Weydson Fernandes](https://www.linkedin.com/in/weydson-fernandes/)!
 
-# 🚀 Desenvolvedor Backend em Crescimento 🚀
+# 🚀 Desenvolvedor Backend 🚀
 
 👋 Sou um entusiasta de Desenvolvimento Backend, dedicado a explorar as tecnologias C# e .NET. Em 2023, estou imerso em bootcamps especializados e projetos práticos para aprimorar minhas habilidades em desenvolvimento de software.
 
